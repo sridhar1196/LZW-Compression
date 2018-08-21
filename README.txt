@@ -62,7 +62,7 @@ The program has 2 different process,
 
 a) Read the input file word by word
 b) Encode the symbol read from file
-c) Write the output in new file name (<Input File Name without extension> + ì.lzwî) using formal UTF-16BE
+c) Write the output in new file name (<Input File Name without extension> + ‚Äú.lzw‚Äù) using formal UTF-16BE
 
 2. Decoding:
 
@@ -93,7 +93,7 @@ Decoder Input: java project1.Main_Class Decoder input2.lzw 12
 
 3. Output file will be created in the following format. 
 
-Encoding: <Input File Name without extension> + ì.lzwî
+Encoding: <Input File Name without extension> + ‚Äú.lzw‚Äù
 
 Decoding: <File Name without extension> + "_decoded.txt"
 
